@@ -1,5 +1,6 @@
 # 49 Years of Music - A Data Driven Study of Lyrics
 ## Using a combination of web scraping, API calls, and Data Science to map out changes in lyrics from 1978 to 2018
+Please read the accompanying Medium Article here: https://medium.com/@carlsharpe_71327/49-years-of-lyrics-why-so-angry-1adf0a3fa2b4
 
 There are two Jupyter notebooks in this repository, and the links to the rest of the data you'll need are here:
 * https://medium.com/r/?url=https%3A%2F%2Fwww.freewebheaders.com%2Fbad-words-list-and-page-moderation-words-list-for-facebook%2F
