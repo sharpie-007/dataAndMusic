@@ -3,7 +3,7 @@
 Please read the accompanying [Medium Article here.](https://medium.com/@carlsharpe_71327/49-years-of-lyrics-why-so-angry-1adf0a3fa2b4)
 
 There are two Jupyter notebooks in this repository. They are:
-* 49 Years of Music - Collection and Analysis.ipynb, which contains the business question, understanding, data preparation, modelling (part of), evaluation (part of), and deployment of the data (similary to the old school [CRISP-DM model)](https://jenstirrup.com/2017/07/01/whats-wrong-with-crisp-dm-and-is-there-an-alternative/)
+* 49 Years of Music - Collection and Analysis.ipynb, which contains the business question, understanding, data preparation, modelling (part of), evaluation (part of), and deployment of the data (similar to the old school [CRISP-DM model)](https://jenstirrup.com/2017/07/01/whats-wrong-with-crisp-dm-and-is-there-an-alternative/)
 * Aggression Classifier.ipynb, which houses the code required to build an ANN to detect aggression.
 
 
