@@ -7,7 +7,7 @@ There are two Jupyter notebooks in this repository. They are:
 * Aggression Classifier.ipynb, which houses the code required to build an ANN to detect aggression.
 
 
-The inks to the rest of the data you'll need are here:
+The links to the rest of the data you'll need are here:
 * [Bad Words List](https://medium.com/r/?url=https%3A%2F%2Fwww.freewebheaders.com%2Fbad-words-list-and-page-moderation-words-list-for-facebook%2F)
 * [Kaggle Cyber Aggression Dataset](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdataturks%2Fdataset-for-detection-of-cybertrolls)
 
