@@ -2,9 +2,14 @@
 ## Using a combination of web scraping, API calls, and Data Science to map out changes in lyrics from 1978 to 2018
 Please read the accompanying Medium Article here: https://medium.com/@carlsharpe_71327/49-years-of-lyrics-why-so-angry-1adf0a3fa2b4
 
-There are two Jupyter notebooks in this repository, and the links to the rest of the data you'll need are here:
+There are two Jupyter notebooks in this repository. They are:
+* 49 Years of Music - Collection and Analysis.ipynb, which contains the business question, understanding, data preparation, modelling (part of), evaluation (part of), and deployment of the data (similary to the old school [CRISP-DM model)](https://jenstirrup.com/2017/07/01/whats-wrong-with-crisp-dm-and-is-there-an-alternative/)
+
+
+The inks to the rest of the data you'll need are here:
 * https://medium.com/r/?url=https%3A%2F%2Fwww.freewebheaders.com%2Fbad-words-list-and-page-moderation-words-list-for-facebook%2F
 * https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdataturks%2Fdataset-for-detection-of-cybertrolls
+
 
 ### Background
 I love music. I really enjoy watching the changes and reboots and revamping and resampling of sounds over time. I also enjoy hearaing brand new sounds that haven't been used before as well as updates to classic songs crossed over with jarring beats from things like Dubstep and the like,
